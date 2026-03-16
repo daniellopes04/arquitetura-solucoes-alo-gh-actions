@@ -1,0 +1,1 @@
+# arquitetura-solucoes-alo-gh-actions
